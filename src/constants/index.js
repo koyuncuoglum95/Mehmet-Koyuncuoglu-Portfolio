@@ -119,10 +119,10 @@ const experiences = [
     iconBg: "white",
     date: "Jun 2020 - Aug 2020",
     points: [
-      "Worked on a project that is all about an educational application for the college students.",
-      "Developed the project with React JS to develop frontend part of the application.",
-      "Designed a landing page by creating navbar, search box and select filtering, changing color of buttons.",
-      "Used Google Firebase Realtime Database section to add and fetch REST API from Node JS.",
+      "Collaborated on a project focused on developing an educational application tailored for college students, enhancing the learning experience.",
+      "Assumed the role of interim CTO for a week, gaining valuable insights into strategic decision-making and team management.",
+      "Integrated Google Firebase Realtime Database for real-time data handling, while leveraging Node.js to interact with REST APIs, ensuring seamless data flow within the application. -making and team management.",
+      "Gained practical experience in Agile methodologies, contributing to sprint planning, daily stand-ups, and retrospective meetings.",
     ],
   },
   {
@@ -132,10 +132,10 @@ const experiences = [
     iconBg: "white",
     date: "Sep 2019 - Jan 2023",
     points: [
-      "Fetched REST API from Node.js and MongoDB database into React frontend framework to show the data in the web application.",
-      "Developed CRUD operations with Node.js and Express JS such as authentication for students, teachers, and games.",
-      "Worked on e-learning project which is all about playing with VR Glasses, Mobile and PC.",
-      "Learned how to integrate Docker with Python/ Django for the backend part of the mobile application such as Django CRUD operations.",
+      "Implemented efficient data modeling and performed complex aggregation queries using MongoDB to ensure optimal retrieval and storage of data.",
+      "Enhanced application performance by 20% through proficient use of React and Redux for front-end, along with Node.js and Express.js for back-end.",
+      "Contributed to continuous integration/continuous delivery (CI/CD) practices by integrating Docker into the development workflow, which improved deployment efficiency.",
+      "Utilized Restful APIs to create a seamless flow of data between front-end and back-end services, optimizing the user experience and ensuring real-time data availability.",
     ],
   },
   {
@@ -145,10 +145,10 @@ const experiences = [
     iconBg: "white",
     date: "Feb 2023 - Present",
     points: [
-      "Managed a team to lead them how to build responsive frontend application for web and mobile.",
-      "Led a team of 5 developers in the design, development, and deployment of 3 web applications.",
-      "Collaborated with cross-functional teams to understand business requirements and translate them into technical solutions.",
-      "Coordinated with project managers to prioritize tasks, create timelines, and meet project deadlines.",
+      "Guided a team of 6 full-stack developers through the lifecycle of 4 major web applications, from initial design through development to successful deployment.",
+      "Oversaw a team of software engineers in building intuitive and responsive applications for various platforms including web and mobile.",
+      "Ensured project timelines were adhered to by effectively coordinating with project managers, prioritizing tasks, and overseeing the efficient allocation of resources.",
+      "Evaluated and introduced new technologies and tools as necessary to keep up with industry trends and to maintain competitive edge.",
     ],
   },
 ];
